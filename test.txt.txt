@@ -1,0 +1,6 @@
+<html>
+<head><title>github class</title></head>
+<body>
+<h1>class work</h1>
+</body>
+</html>
